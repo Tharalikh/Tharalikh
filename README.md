@@ -7,7 +7,7 @@ I am a Student from Universiti Teknologi Malaysia
 I made an E-Portofolio for my study purposed. I used HTML and CSS for this project to practices myself on entering the world of developer
 
 * 🌍  I'm based in Johor right now
-* 🖥️  See my portfolio at [GitHub](http://https://tharalikh.github.io/)
+* 🖥️  See my portfolio at [GitHub](http://tharalikh.github.io/)
 * ✉️  You can contact me at [atharalikh14z@gmail.com](mailto:atharalikh14z@gmail.com)
 * 🧠  I'm learning Software Engineer
 
